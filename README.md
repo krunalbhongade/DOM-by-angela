@@ -19,8 +19,9 @@ Document Object Model
 ![WhatsApp Image 2023-06-09 at 10 55 26 PM (2)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/be490aa7-c15b-4c00-943c-85ebf2fb692b)
 ![WhatsApp Image 2023-06-09 at 10 55 26 PM (1)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/76f97def-2ecc-4c99-87d4-996f7512b4a4)
 ![WhatsApp Image 2023-06-09 at 10 55 26 PM](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/4684da1a-64d1-4f91-ac46-26609723d007)
-![WhatsApp Image 2023-06-09 at 10 55 25 PM (1)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/3c8514a0-f1d5-41ed-ab98-d6fdeeefcaf1)
 ![WhatsApp Image 2023-06-09 at 10 55 25 PM (2)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/d4ad26e2-3d9c-4339-8af9-ba5f7a354ce8)
+![WhatsApp Image 2023-06-09 at 10 55 25 PM (1)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/3c8514a0-f1d5-41ed-ab98-d6fdeeefcaf1)
+
 ![WhatsApp Image 2023-06-09 at 10 55 25 PM](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/2aedaa13-9812-4bd7-bee5-d2096f07a81c)
 
 
