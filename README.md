@@ -4,6 +4,7 @@ Document Object Model
 ![WhatsApp Image 2023-06-09 at 10 55 27 PM](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/3233eb51-eb0b-4eac-a7c6-0f58faf04b0f)
 ![WhatsApp Image 2023-06-09 at 10 55 26 PM (3)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/07475f5f-9aab-4bb8-9a64-c75f219a5f6b)
 ![WhatsApp Image 2023-06-09 at 10 55 26 PM (2)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/be490aa7-c15b-4c00-943c-85ebf2fb692b)
+# Intro to DOM
 ![WhatsApp Image 2023-06-09 at 10 55 26 PM (1)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/76f97def-2ecc-4c99-87d4-996f7512b4a4)
 ![WhatsApp Image 2023-06-09 at 10 55 26 PM](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/4684da1a-64d1-4f91-ac46-26609723d007)
 ![WhatsApp Image 2023-06-09 at 10 55 25 PM (2)](https://github.com/krunalbhongade/DOM-by-angela/assets/126875304/d4ad26e2-3d9c-4339-8af9-ba5f7a354ce8)
